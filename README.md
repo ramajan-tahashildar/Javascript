@@ -1,2 +1,3 @@
 # Javascript
-Material and code snippets of Javascript 
+A code Repo of Javascript series and materials
+
