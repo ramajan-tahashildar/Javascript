@@ -1,3 +1,3 @@
 # Javascript
-A code Repo of Javascript series and materials
+A code repo of Javascript series and materials
 
