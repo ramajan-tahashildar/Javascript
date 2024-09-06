@@ -21,7 +21,5 @@ let isloggedin= true //boolean
  console.log(typeof "ramajan");
 console.log(typeof undefined);  //undefined 
 console.log(typeof null) //outpt: object 
-
-
- 
+console.log(age);
  
